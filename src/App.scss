@@ -1,0 +1,23 @@
+@import "../src/assets/styles/Header.scss";
+@import "../src/assets/styles/Hero.scss";
+@import "../src/assets/styles/Section1.scss";
+@import "../src/assets/styles/Section2.scss";
+@import "../src/assets/styles/Section3.scss";
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #04202c;
+  padding: 30px 0;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+}
+button {
+  cursor: pointer;
+}
